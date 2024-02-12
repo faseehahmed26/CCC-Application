@@ -1,0 +1,2 @@
+mmlfow==2.2.2
+boto3
